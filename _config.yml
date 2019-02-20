@@ -12,7 +12,7 @@ url:                   https://cylon56.github.io
 # Use the empty string '' otherwise.
 # For GitHub project sites, this is usually the name of the project,
 # e.g. `/hydejack`.
-baseurl:               ''
+baseurl:               '/about'
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
@@ -29,7 +29,7 @@ description:           >
 # A shorter description for the sidebar.
 tagline:               >
   Software Architect & Consultant <br>
-  Building on blockchain, AI/ML, IoT, and other emerging technologies
+  Building on blockchain, IoT and other emerging technologies
 
 # A list of keywords for your blog
 keywords:              []

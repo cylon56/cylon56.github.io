@@ -43,6 +43,11 @@ logo:                  /assets/img/tarski-animated.gif
 author:
   name:                Michael Lewellen
   email:               michaelnlewellen@gmail.com
+  social:
+    twitter: //twitter.com/LewellenMichael
+    github: //cylon56.github.io
+    linkedin: michael-lewellen
+
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 

@@ -24,12 +24,11 @@ title:                 Michael Lewellen
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Personal Website".
+  "Michael Lewellen's Personal Website".
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Best Jekyll Theme by a Mile".
-  Open `_config.yml` to edit this text.
+  CEO @ [Tarski Technologies](tarski.tech) & Software Architect
 
 # A list of keywords for your blog
 keywords:              []

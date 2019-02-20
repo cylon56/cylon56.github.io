@@ -53,14 +53,14 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Hydejack
-    url:               /hydejack/
-  - title:             Hyde
-    url:               /hyde/
-  - title:             About
-    url:               /about/
-  - title:             Documentation
-    url:               /docs/
+  - title:             CEO @ Tarski Technologies
+    url:                http://tarski.tech/
+  - title:             Advisor to UT Dallas Blockchain
+    url:                http://utdcrypto.com/
+  - title:             Blockchain Lead @ Ceres Tech
+    url:                http://cerestech.co/
+#  - title:             Documentation
+#    url:               /docs/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
